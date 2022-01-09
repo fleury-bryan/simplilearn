@@ -1,2 +1,2 @@
 First Changes
-Adding content from GitHub
+Adding content From GitHub
